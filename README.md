@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on FarsLearn.com
 - 🌱 I’m currently learning Asp.net core gRPC Service
 - 📫 How to reach me: [WebSite](https://farslearn.com)
-- ⚡ Fun fact: If you can't see your website in Google results, do not be angry, Google is sleep
+- ⚡ Fun fact: I want to make the world a better place, but they will not give me the source code
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RezaSabzBeProf)](https://github.com/RezaSabzBeProf/github-readme-stats)
 
